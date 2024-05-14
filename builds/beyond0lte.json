@@ -1,0 +1,21 @@
+{
+    "response": [
+        {
+            "maintainer": "Achille (0xSharkBoy)",
+            "oem": "Samsung",
+            "device": "Galaxy S10e",
+            "filename": "EvolutionX-14.0-20240514-0101-beyond0lte-v9.0-Unofficial.zip",
+            "download": "https://download.0xsharkboy.dev/remote.php/dav/files/achille/EvolutionX%209.x/Tests/05-13-24/beyond0lte/EvolutionX-14.0-20240514-0101-beyond0lte-v9.0-Unofficial.zip",
+            "timestamp": 1715640370,
+            "md5": "fdfc46075e96430fbea74a7479c09254",
+            "sha256": "f0e8798b18a9044018735ebfe06efdae356bbc686020a5ff07ce3d7920239109",
+            "size": 2044420721,
+            "version": "9.0",
+            "buildtype": "Testing",
+            "forum": "https://xdaforums.com/t/rom-community-14-evolutionx-8-x-aosp-encryption.4669084/",
+            "firmware": "",
+            "paypal": "",
+            "telegram": "https://t.me/achilles_exynos"
+        }
+    ]
+}
