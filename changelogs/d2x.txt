@@ -1,0 +1,2 @@
+ - Fixed lockscreen charge overlay
+ - Increased incall volume

@@ -1,0 +1,21 @@
+{
+    "response": [
+        {
+            "maintainer": "Achille (0xSharkBoy)",
+            "oem": "Samsung",
+            "device": "Galaxy Note 10 Plus 5G",
+            "filename": "EvolutionX-14.0-20240514-0435-d2x-v9.0-Unofficial.zip",
+            "download": "https://download.0xsharkboy.dev/remote.php/dav/files/achille/EvolutionX%209.x/Tests/05-13-24/d2x/EvolutionX-14.0-20240514-0435-d2x-v9.0-Unofficial.zip",
+            "timestamp": 1715653222,
+            "md5": "f708d3f3bf82d6308c5c4e0d02096024",
+            "sha256": "838252b184c8b98b512b42023aaae5faf0ea92bf7d0c7ef48fc4f0980362b23c",
+            "size": 2075971295,
+            "version": "9.0",
+            "buildtype": "Testing",
+            "forum": "https://xdaforums.com/t/rom-community-14-evolutionx-8-x-aosp-encryption.4669086/",
+            "firmware": "",
+            "paypal": "",
+            "telegram": "https://t.me/achilles_exynos"
+        }
+    ]
+}
