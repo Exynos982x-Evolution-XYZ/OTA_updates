@@ -1,21 +1,21 @@
 {
-    "response": [
-        {
-            "maintainer": "Achille (0xSharkBoy)",
-            "oem": "Samsung",
-            "device": "Galaxy Note 10 Plus",
-            "filename": "EvolutionX-14.0-20240514-0400-d2s-v9.0-Unofficial.zip",
-            "download": "https://download.0xsharkboy.dev/remote.php/dav/files/achille/EvolutionX%209.x/Tests/05-13-24/d2s/EvolutionX-14.0-20240514-0400-d2s-v9.0-Unofficial.zip",
-            "timestamp": 1715650984,
-            "md5": "2b14b6bd736c981e216134bd7f7b0ae6",
-            "sha256": "e44479f00d256bb17b777d853e617e2d34e6ebc5fa786563aef57935d72cb0eb",
-            "size": 2036182468,
-            "version": "9.0",
-            "buildtype": "Testing",
-            "forum": "https://xdaforums.com/t/rom-community-14-evolutionx-8-x-aosp-encryption.4669086/",
-            "firmware": "",
-            "paypal": "",
-            "telegram": "https://t.me/achilles_exynos"
-        }
-    ]
+  "response": [
+    {
+      "maintainer": "Achille (0xSharkBoy)",
+      "oem": "Samsung",
+      "device": "Galaxy Note 10 Plus",
+      "filename": "EvolutionX-14.0-20240528-d2s-v9.0-Unofficial.zip",
+      "download": "https://download.0xsharkboy.dev/s/EvolutionX-9x/download?path=%2F05-27-24%2Fd2s&files=EvolutionX-14.0-20240528-d2s-v9.0-Unofficial.zip",
+      "timestamp": "1716864656",
+      "md5": "3ce85c4114adcc0588ea9a39b3c0688a",
+      "sha256": "5adf4db379402cf7cf7d415845e81062173f4b4e7eefe0991542cfdf20b9d409",
+      "size": "2167411759",
+      "version": "9.0",
+      "buildtype": "Monthly",
+      "forum": "https://xdaforums.com/t/rom-community-14-evolutionx-8-x-aosp-encryption.4669086/",
+      "firmware": "",
+      "paypal": "",
+      "telegram": "https://t.me/achilles_exynos"
+    }
+  ]
 }
