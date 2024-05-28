@@ -1,21 +1,21 @@
 {
-    "response": [
-        {
-            "maintainer": "Achille (0xSharkBoy)",
-            "oem": "Samsung",
-            "device": "Galaxy S10",
-            "filename": "EvolutionX-14.0-20240514-0139-beyond1lte-v9.0-Unofficial.zip",
-            "download": "https://download.0xsharkboy.dev/remote.php/dav/files/achille/EvolutionX%209.x/Tests/05-13-24/beyond1lte/EvolutionX-14.0-20240514-0139-beyond1lte-v9.0-Unofficial.zip",
-            "timestamp": 1715642523,
-            "md5": "08b984f31e01c25cf44fdfe402ce8e21",
-            "sha256": "6c9f684d2d490c6573d46c354a1a43f1032099c54f7ac54dd4041d8a6e5147b9",
-            "size": 2049360605,
-            "version": "9.0",
-            "buildtype": "Testing",
-            "forum": "https://xdaforums.com/t/rom-community-14-evolutionx-8-x-aosp-encryption.4669084/",
-            "firmware": "",
-            "paypal": "",
-            "telegram": "https://t.me/achilles_exynos"
-        }
-    ]
+  "response": [
+    {
+      "maintainer": "Achille (0xSharkBoy)",
+      "oem": "Samsung",
+      "device": "Galaxy S10",
+      "filename": "EvolutionX-14.0-20240528-beyond1lte-v9.0-Unofficial.zip",
+      "download": "https://download.0xsharkboy.dev/s/EvolutionX-9x/download?path=%2F05-27-24%2Fbeyond1lte&files=EvolutionX-14.0-20240528-beyond1lte-v9.0-Unofficial.zip",
+      "timestamp": "1716854035",
+      "md5": "17b13a8910f32a48a7fb79bf5f932b7f",
+      "sha256": "f7baa422da1f418c40dd8ecc35958ec4eb7b92502af8269e10a7b4190759e7e0",
+      "size": "2180681018",
+      "version": "9.0",
+      "buildtype": "Monthly",
+      "forum": "https://xdaforums.com/t/rom-community-14-evolutionx-8-x-aosp-encryption.4669084/",
+      "firmware": "",
+      "paypal": "",
+      "telegram": "https://t.me/achilles_exynos"
+    }
+  ]
 }
