@@ -1,21 +1,21 @@
 {
-    "response": [
-        {
-            "maintainer": "Achille (0xSharkBoy)",
-            "oem": "Samsung",
-            "device": "Galaxy F62",
-            "filename": "EvolutionX-14.0-20240513-2237-f62-v9.0-Unofficial.zip",
-            "download": "https://download.0xsharkboy.dev/remote.php/dav/files/achille/EvolutionX%209.x/Tests/05-13-24/f62/EvolutionX-14.0-20240513-2237-f62-v9.0-Unofficial.zip",
-            "timestamp": 1715631867,
-            "md5": "736f3a18d035f55af10a6bddb4db95d9",
-            "sha256": "b4a2e443bbae4c6d0e43cff99e1d115a0f999f83d478b8c71bbfa9ce017e510a",
-            "size": 2057132554,
-            "version": "9.0",
-            "buildtype": "Testing",
-            "forum": "https://xdaforums.com/t/rom-community-14-evolutionx-8-x-aosp-encryption.4669082/",
-            "firmware": "",
-            "paypal": "",
-            "telegram": "https://t.me/achilles_exynos"
-        }
-    ]
+  "response": [
+    {
+      "maintainer": "Achille (0xSharkBoy)",
+      "oem": "Samsung",
+      "device": "Galaxy F62",
+      "filename": "EvolutionX-14.0-20240527-f62-v9.0-Unofficial.zip",
+      "download": "https://download.0xsharkboy.dev/s/EvolutionX-9x/download?path=%2F05-27-24%2Ff62&files=EvolutionX-14.0-20240527-f62-v9.0-Unofficial.zip",
+      "timestamp": "1716842395",
+      "md5": "6c33843ed8ca3c02ea8ca8e094d1eaa7",
+      "sha256": "d964bd1024bfa880f970ed2f0e2f70c53d19323c112258fac5d52c6c4c04c61a",
+      "size": "2063304298",
+      "version": "9.0",
+      "buildtype": "Monthly",
+      "forum": "https://xdaforums.com/t/rom-community-14-evolutionx-8-x-aosp-encryption.4669082/",
+      "firmware": "",
+      "paypal": "",
+      "telegram": "https://t.me/achilles_exynos"
+    }
+  ]
 }
