@@ -1,2 +1,4 @@
- - Fixed lockscreen charge overlay
- - Increased incall volume
+ - Added back tons of EvolutionX original features
+ - Updated pif
+ - User signed build to pass Play Integrity again
+ - Added updater for OTA updates
