@@ -1,4 +1,5 @@
- - Added back tons of EvolutionX original features
- - Updated pif
- - User signed build to pass Play Integrity again
- - Added updater for OTA updates
+ - Source sync
+ - Some GPU and Display optimizations
+ - Updated kernel to 4.14.345
+ - Switched to AIDL camera HAL
+ - Updated blobs from E625FDDS6CXE2
