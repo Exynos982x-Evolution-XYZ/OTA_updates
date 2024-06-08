@@ -1,5 +1,4 @@
  - Source sync
- - Some GPU and Display optimizations
- - Updated kernel to 4.14.345
- - Switched to AIDL camera HAL
- - Updated blobs from E625FDDS6CXE2
+ - Rom sided fix
+ - Enabled volume step
+ - ! Do not use Brightness Slider Shaded theme it's causing bootloop
