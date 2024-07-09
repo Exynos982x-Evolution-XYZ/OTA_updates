@@ -1,4 +1,2 @@
  - Source sync
- - Rom sided fix
- - Enabled volume step
- - ! Do not use Brightness Slider Shaded theme it's causing bootloop
+ - QPR3 version
