@@ -12,7 +12,7 @@ jobs:
       - name: Patch boot images with Magisk
         uses: 0xsharkboy/magisk-patch-action@main
         with:
-          devices: beyond0lte
+          devices: beyond0lte,beyond1lte,beyond2lte,beyondx,d1,d2s,d2x,f62
           ota_link: https://raw.githubusercontent.com/Evolution-XYZ/OTA/udc/builds/
 
       - name: Get current date
