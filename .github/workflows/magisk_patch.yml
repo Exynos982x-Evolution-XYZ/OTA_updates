@@ -1,11 +1,11 @@
-name: Patch boot images
+name: Patch Exynos982x boot images with magisk
 
 on:
   workflow_dispatch:
 
 jobs:
   patch_boot:
-    name: Patch boot images for Exynos982x devices
+    name: Patch boot images and release
     runs-on: ubuntu-latest
 
     steps:
@@ -15,17 +15,11 @@ jobs:
           devices: beyond0lte
           ota_link: https://raw.githubusercontent.com/Evolution-XYZ/OTA/udc/builds/
 
-  upload_as_release:
-    name: Upload patched images as release 
-    needs: patch_boot
-    runs-on: ubuntu-latest
-
-    steps:
       - name: Get current date
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV ; ls -R
 
-      - name: Upload patched images
+      - name: Upload patched boot images
         uses: softprops/action-gh-release@v2
         with:
           token: ${{ secrets.TOKEN }}
